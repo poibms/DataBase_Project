@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/easyp/AndroidStudioProjects/DbProject/app/src/main/res/drawable-v24/roundedbutton.xml" value="0.2046875" />
+        <entry key="..\:/Users/easyp/AndroidStudioProjects/DbProject/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2046875" />
+        <entry key="..\:/Users/easyp/AndroidStudioProjects/DbProject/app/src/main/res/layout/activity_add_author.xml" value="0.25" />
+        <entry key="..\:/Users/easyp/AndroidStudioProjects/DbProject/app/src/main/res/layout/activity_add_medicine.xml" value="0.25" />
+        <entry key="..\:/Users/easyp/AndroidStudioProjects/DbProject/app/src/main/res/layout/activity_crypt.xml" value="0.371875" />
+        <entry key="..\:/Users/easyp/AndroidStudioProjects/DbProject/app/src/main/res/layout/activity_edit_medicine.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/easyp/AndroidStudioProjects/DbProject/app/src/main/res/layout/activity_item.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/easyp/AndroidStudioProjects/DbProject/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/easyp/AndroidStudioProjects/DbProject/app/src/main/res/layout/item.xml" value="0.26685393258426965" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
