@@ -1,4 +1,4 @@
-# DataBase_Project
+# Welcome to the club, buddy
 Simple Android application :/ with DB and Content Provider
 
 "TestApp" - it's a simple application that shows the work of the content provider
